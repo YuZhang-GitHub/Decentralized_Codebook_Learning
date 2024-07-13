@@ -14,6 +14,34 @@ This is the simulation code related to the following article: Y. Zhang and A. Al
   <img src="./figures/beam_1.png" alt="Beam 1" width="450"/>
   <img src="./figures/beam_2.png" alt="Beam 2" width="450"/>
 </p>
+<p float="center">
+  <img src="./figures/beam_3.png" alt="Beam 3" width="450"/>
+  <img src="./figures/beam_4.png" alt="Beam 4" width="450"/>
+</p>
+<p float="center">
+  <img src="./figures/beam_5.png" alt="Beam 5" width="450"/>
+  <img src="./figures/beam_6.png" alt="Beam 6" width="450"/>
+</p>
+<p float="center">
+  <img src="./figures/beam_7.png" alt="Beam 7" width="450"/>
+  <img src="./figures/beam_8.png" alt="Beam 8" width="450"/>
+</p>
+<p float="center">
+  <img src="./figures/beam_9.png" alt="Beam 9" width="450"/>
+  <img src="./figures/beam_10.png" alt="Beam 10" width="450"/>
+</p>
+<p float="center">
+  <img src="./figures/beam_11.png" alt="Beam 11" width="450"/>
+  <img src="./figures/beam_12.png" alt="Beam 12" width="450"/>
+</p>
+<p float="center">
+  <img src="./figures/beam_13.png" alt="Beam 13" width="450"/>
+  <img src="./figures/beam_14.png" alt="Beam 14" width="450"/>
+</p>
+<p float="center">
+  <img src="./figures/beam_15.png" alt="Beam 15" width="450"/>
+  <img src="./figures/beam_16.png" alt="Beam 16" width="450"/>
+</p>
 
 
 If you have any problems with generating the figure, please contact [Yu Zhang](https://www.linkedin.com/in/yu-zhang-391275181/).
