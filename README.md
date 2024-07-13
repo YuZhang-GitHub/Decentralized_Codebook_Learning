@@ -48,4 +48,4 @@ If you have any problems with generating the figure, please contact [Yu Zhang](h
 
 # License and Referencing
 This code package is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/). If you in any way use this code for research that results in publications, please cite our original article:
-> Y. Zhang and A. Alkhateeb, "[Decentralized Interference-Aware Codebook Learning in Millimeter Wave MIMO Systems](https://arxiv.org/abs/2401.07479)".
+> Y. Zhang and A. Alkhateeb, "[Decentralized Interference-Aware Codebook Learning in Millimeter Wave MIMO Systems](https://arxiv.org/abs/2401.07479)", arXiv:2401.07479.
