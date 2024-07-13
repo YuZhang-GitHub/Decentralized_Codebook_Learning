@@ -11,28 +11,28 @@ Beam codebooks are integral components of the future millimeter wave (mmWave) mu
 4. Run `show_codebook.m`, which will generate the learned interference-aware codebook beam patterns as attached below.
 
 <p float="left">
-  <img src="./figures/beam_1.png" alt="Beam 1" width="250"/>
-  <img src="./figures/beam_2.png" alt="Beam 2" width="250"/>
-  <img src="./figures/beam_3.png" alt="Beam 3" width="250"/>
-  <img src="./figures/beam_4.png" alt="Beam 4" width="250"/>
+  <img src="./figures/beam_1.png" alt="Beam 1" width="200"/>
+  <img src="./figures/beam_2.png" alt="Beam 2" width="200"/>
+  <img src="./figures/beam_3.png" alt="Beam 3" width="200"/>
+  <img src="./figures/beam_4.png" alt="Beam 4" width="200"/>
 </p>
 <p float="left">
-  <img src="./figures/beam_5.png" alt="Beam 5" width="250"/>
-  <img src="./figures/beam_6.png" alt="Beam 6" width="250"/>
-  <img src="./figures/beam_7.png" alt="Beam 7" width="250"/>
-  <img src="./figures/beam_8.png" alt="Beam 8" width="250"/>
+  <img src="./figures/beam_5.png" alt="Beam 5" width="200"/>
+  <img src="./figures/beam_6.png" alt="Beam 6" width="200"/>
+  <img src="./figures/beam_7.png" alt="Beam 7" width="200"/>
+  <img src="./figures/beam_8.png" alt="Beam 8" width="200"/>
 </p>
 <p float="left">
-  <img src="./figures/beam_9.png" alt="Beam 9" width="250"/>
-  <img src="./figures/beam_10.png" alt="Beam 10" width="250"/>
-  <img src="./figures/beam_11.png" alt="Beam 11" width="250"/>
-  <img src="./figures/beam_12.png" alt="Beam 12" width="250"/>
+  <img src="./figures/beam_9.png" alt="Beam 9" width="200"/>
+  <img src="./figures/beam_10.png" alt="Beam 10" width="200"/>
+  <img src="./figures/beam_11.png" alt="Beam 11" width="200"/>
+  <img src="./figures/beam_12.png" alt="Beam 12" width="200"/>
 </p>
 <p float="left">
-  <img src="./figures/beam_13.png" alt="Beam 13" width="250"/>
-  <img src="./figures/beam_14.png" alt="Beam 14" width="250"/>
-  <img src="./figures/beam_15.png" alt="Beam 15" width="250"/>
-  <img src="./figures/beam_16.png" alt="Beam 16" width="250"/>
+  <img src="./figures/beam_13.png" alt="Beam 13" width="200"/>
+  <img src="./figures/beam_14.png" alt="Beam 14" width="200"/>
+  <img src="./figures/beam_15.png" alt="Beam 15" width="200"/>
+  <img src="./figures/beam_16.png" alt="Beam 16" width="200"/>
 </p>
 
 If you have any problems with generating the figure, please contact [Yu Zhang](https://www.linkedin.com/in/yu-zhang-391275181/).
