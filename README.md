@@ -11,10 +11,8 @@ This is the simulation code related to the following article: Y. Zhang and A. Al
 4. Run `show_codebook.m`, which will generate the learned interference-aware codebook beam patterns as attached below.
 
 <p float="left">
-  <img src="./figures/beam_1.png" alt="Beam 1" width="230"/>
-  <img src="./figures/beam_2.png" alt="Beam 2" width="230"/>
-  <img src="./figures/beam_3.png" alt="Beam 3" width="230"/>
-  <img src="./figures/beam_4.png" alt="Beam 4" width="230"/>
+  <img src="./figures/beam_1.png" alt="Beam 1" width="300"/>
+  <img src="./figures/beam_2.png" alt="Beam 2" width="300"/>
 </p>
 <p float="left">
   <img src="./figures/beam_5.png" alt="Beam 5" width="230"/>
